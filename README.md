@@ -1,232 +1,77 @@
-Contribution: 2022-01-03 20:00
+# Demo Todo App with Next.js 13, Server Actions, and Drizzle ORM
 
-Contribution: 2022-01-03 20:01
+Explore the capabilities of Next.js 13 through our demo repository showcasing a
+simple todo app. Dive into server actions and leverage Drizzle ORM integration
+to grasp how to efficiently manage tasks.
 
-Contribution: 2022-01-03 20:02
+## Learn More
 
-Contribution: 2022-01-03 20:03
+To learn more about Next.js, take a look at the following resources:
 
-Contribution: 2022-01-03 20:04
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js
+  features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) - to
+  automatically optimize and load Inter and Lexend from Google Fonts.
 
-Contribution: 2022-01-04 20:00
+This repository contains a simple demo todo app created with Next.js 13,
+showcasing the usage of server actions and integration with Drizzle ORM. It
+serves as a practical example to help you understand the implementation of these
+features and build efficient applications.
 
-Contribution: 2022-01-04 20:01
+## Features
 
-Contribution: 2022-01-05 20:00
+- Manage tasks: Create, update, and delete todos with ease.
+- Server actions: Utilize server-side logic for handling todo operations.
+- Drizzle ORM integration: Seamlessly interact with the database using Drizzle
+  ORM.
 
-Contribution: 2022-01-05 20:01
+## Getting Started
 
-Contribution: 2022-01-05 20:02
+### Prerequisites
 
-Contribution: 2022-01-05 20:03
+- Node.js and npm installed on your local machine.
 
-Contribution: 2022-01-07 20:00
+### Installation
 
-Contribution: 2022-01-07 20:01
+1. Clone this repository:
 
-Contribution: 2022-01-07 20:02
+   ```bash
+   git clone https://github.com/raymondkneipp/next-todo-app.git
+   ```
 
-Contribution: 2022-01-07 20:03
+2. Navigate to the project directory:
 
-Contribution: 2022-01-07 20:04
+   ```bash
+   cd next-todo-app
+   ```
 
-Contribution: 2022-01-07 20:05
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-Contribution: 2022-01-07 20:06
+### Usage
 
-Contribution: 2022-01-07 20:07
+1. Start the development server:
 
-Contribution: 2022-01-07 20:08
+   ```bash
+   npm run dev
+   ```
 
-Contribution: 2022-01-10 20:00
+2. Open your browser and visit [http://localhost:3000](http://localhost:3000) to
+   access the app.
 
-Contribution: 2022-01-10 20:01
+### Contributing
 
-Contribution: 2022-01-10 20:02
+Contributions are welcome! If you find any issues or have ideas for
+improvements, please open an issue or submit a pull request.
 
-Contribution: 2022-01-11 20:00
+### License
 
-Contribution: 2022-01-11 20:01
+This project is licensed under the [MIT License](LICENSE).
 
-Contribution: 2022-01-11 20:02
+---
 
-Contribution: 2022-01-11 20:03
-
-Contribution: 2022-01-11 20:04
-
-Contribution: 2022-01-11 20:05
-
-Contribution: 2022-01-11 20:06
-
-Contribution: 2022-01-11 20:07
-
-Contribution: 2022-01-11 20:08
-
-Contribution: 2022-01-11 20:09
-
-Contribution: 2022-01-11 20:10
-
-Contribution: 2022-01-11 20:11
-
-Contribution: 2022-01-12 20:00
-
-Contribution: 2022-01-12 20:01
-
-Contribution: 2022-01-12 20:02
-
-Contribution: 2022-01-12 20:03
-
-Contribution: 2022-01-12 20:04
-
-Contribution: 2022-01-13 20:00
-
-Contribution: 2022-01-14 20:00
-
-Contribution: 2022-01-14 20:01
-
-Contribution: 2022-01-14 20:02
-
-Contribution: 2022-01-14 20:03
-
-Contribution: 2022-01-14 20:04
-
-Contribution: 2022-01-17 20:00
-
-Contribution: 2022-01-19 20:00
-
-Contribution: 2022-01-19 20:01
-
-Contribution: 2022-01-19 20:02
-
-Contribution: 2022-01-19 20:03
-
-Contribution: 2022-01-19 20:04
-
-Contribution: 2022-01-19 20:05
-
-Contribution: 2022-01-19 20:06
-
-Contribution: 2022-01-19 20:07
-
-Contribution: 2022-01-19 20:08
-
-Contribution: 2022-01-19 20:09
-
-Contribution: 2022-01-19 20:10
-
-Contribution: 2022-01-20 20:00
-
-Contribution: 2022-01-20 20:01
-
-Contribution: 2022-01-20 20:02
-
-Contribution: 2022-01-20 20:03
-
-Contribution: 2022-01-20 20:04
-
-Contribution: 2022-01-20 20:05
-
-Contribution: 2022-01-20 20:06
-
-Contribution: 2022-01-20 20:07
-
-Contribution: 2022-01-20 20:08
-
-Contribution: 2022-01-20 20:09
-
-Contribution: 2022-01-21 20:00
-
-Contribution: 2022-01-21 20:01
-
-Contribution: 2022-01-21 20:02
-
-Contribution: 2022-01-21 20:03
-
-Contribution: 2022-01-21 20:04
-
-Contribution: 2022-01-21 20:05
-
-Contribution: 2022-01-21 20:06
-
-Contribution: 2022-01-21 20:07
-
-Contribution: 2022-01-21 20:08
-
-Contribution: 2022-01-21 20:09
-
-Contribution: 2022-01-21 20:10
-
-Contribution: 2022-01-21 20:11
-
-Contribution: 2022-01-24 20:00
-
-Contribution: 2022-01-24 20:01
-
-Contribution: 2022-01-24 20:02
-
-Contribution: 2022-01-24 20:03
-
-Contribution: 2022-01-24 20:04
-
-Contribution: 2022-01-24 20:05
-
-Contribution: 2022-01-24 20:06
-
-Contribution: 2022-01-24 20:07
-
-Contribution: 2022-01-25 20:00
-
-Contribution: 2022-01-25 20:01
-
-Contribution: 2022-01-25 20:02
-
-Contribution: 2022-01-25 20:03
-
-Contribution: 2022-01-25 20:04
-
-Contribution: 2022-01-25 20:05
-
-Contribution: 2022-01-25 20:06
-
-Contribution: 2022-01-25 20:07
-
-Contribution: 2022-01-25 20:08
-
-Contribution: 2022-01-28 20:00
-
-Contribution: 2022-01-28 20:01
-
-Contribution: 2022-01-28 20:02
-
-Contribution: 2022-01-28 20:03
-
-Contribution: 2022-01-28 20:04
-
-Contribution: 2022-01-28 20:05
-
-Contribution: 2022-01-28 20:06
-
-Contribution: 2022-01-28 20:07
-
-Contribution: 2022-01-28 20:08
-
-Contribution: 2022-01-28 20:09
-
-Contribution: 2022-01-28 20:10
-
-Contribution: 2022-01-28 20:11
-
-Contribution: 2022-01-31 20:00
-
-Contribution: 2022-01-31 20:01
-
-Contribution: 2022-02-01 20:00
-
-Contribution: 2022-02-01 20:01
-
-Contribution: 2022-02-01 20:02
-
-Contribution: 2022-02-01 20:03
-
-Contribution: 2022-02-01 20:04
-
+Feel free to explore the codebase, experiment with server actions and Drizzle
+ORM, and learn how to create powerful applications using Next.js 13.
